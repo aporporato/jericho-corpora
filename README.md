@@ -28,8 +28,8 @@ The dataset has been used to finetune the [ELECTRA](https://github.com/google-re
 action classification.
 
 Each dataset has been constructed from the four different annotation described above; then every label that do not have
-a correspondence in the common commands dataset and has less than 5 example has been filtered out. The code is available in
-the `electra_if` diretory.
+a correspondence in the common commands dataset and has less than 5 example has been filtered out. The code is available
+in the `electra_if` directory.
 
 For the results, see https://github.com/aporporato/electra.
 
