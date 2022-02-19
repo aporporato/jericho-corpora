@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Code and result of the construction of corpora of actions and transcripts of Interactive Fiction made possible by [**
-Jericho**](https://github.com/microsoft/jericho).
+Code and result of the construction of corpora of actions and transcripts of Interactive Fiction made possible by
+[**Jericho**](https://github.com/microsoft/jericho).
 
 ### Jericho Actions
 
