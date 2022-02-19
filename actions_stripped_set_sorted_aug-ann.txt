@@ -120,19 +120,19 @@ ask tip for tool;ask.v.02;v00752493;;41;0
 ask trent about elizabeth;ask.v.01;v00784342;;40;0
 ask what gnome looking for;ask.v.01;v00784342;;40;0
 ask wiggins to get garnet;take.v.04;v01214265;;410;1
-ask wiggins to steal keys;steal.v.01;v002321757;get-13.5.1-1,steal-10.5;94;1
+ask wiggins to steal keys;steal.v.01;v02321757;get-13.5.1-1,steal-10.5;94;1
 ask wolf about pigs;ask.v.01;v00784342;;40;0
 ask wolf to blow turbine;blow.v.14;v02100632;split-23.2;7;1
 ask woman about roadrunner;ask.v.01;v00784342;;40;0
 ask woman about ruby;ask.v.01;v00784342;;40;0
-attach paper to teeth;attach.v.01;v001296462;shake-22.3-2-1;197;0
-attach string to kite;attach.v.01;v001296462;shake-22.3-2-1;197;0
-attack crulley;attack.v.01;v001119169;;424;0
-attack dragon with sword;attack.v.01;v001119169;;424;0
-attack thief with nasty knife;attack.v.01;v001119169;;424;0
+attach paper to teeth;attach.v.01;v01296462;shake-22.3-2-1;197;0
+attach string to kite;attach.v.01;v01296462;shake-22.3-2-1;197;0
+attack crulley;attack.v.01;v01119169;;424;0
+attack dragon with sword;attack.v.01;v01119169;;424;0
+attack thief with nasty knife;attack.v.01;v01119169;;424;0
 away;say.v.08;v00979870;say-37.7-1;6;0
 bandage arm with rags;bandage.v.02;v00083124;fill-9.8;;0
-bark;bark.v.04;v001047745;animal_sounds-38;39;0
+bark;bark.v.04;v01047745;animal_sounds-38;39;0
 bathe;bathe.v.01;v00035603;dress-41.1.1;159;0
 beetlebaum;call.v.05;v00792471;get-13.5.1;1253;0
 bekdab golem;;;;;0
@@ -154,12 +154,12 @@ blorple 8;;;;;0
 blorple 9;;;;;0
 blorple x10;;;;;0
 blow dust;blow.v.01;v00007012;;;0
-blow horn;blow.v.11;v002135727;;;0
+blow horn;blow.v.11;v02135727;;;0
 blow in tube;blow.v.01;v00007012;;;0
 blow it;blow.v.01;v00007012;;;0
 blow shawm;blow.v.01;v00007012;;;0
 blow spices at lafond;blow.v.01;v00007012;;;0
-blow whistle;blow.v.11;v002135727;;;0
+blow whistle;blow.v.11;v02135727;;;0
 boo;say.v.08;v00979870;say-37.7-1;6;0
 bozbar horse;;;;;0
 bozbar tortoise;;;;;0
@@ -357,278 +357,278 @@ drive to the monument;drive.v.01;v01930874;;65;0
 drive to tower of london;drive.v.01;v01930874;;65;0
 drive to trafalgar square;drive.v.01;v01930874;;65;0
 drive to whitehall;drive.v.01;v01930874;;65;0
-drop all;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all bricks;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all but brain;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all but candle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all but flashlight;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all but lens;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all but pager;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all but pincer;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all cubes;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all except 10, book;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all except bottle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all except bread;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop all except radio;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop amulet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
+drop all;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all bricks;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all but brain;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all but candle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all but flashlight;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all but lens;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all but pager;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all but pincer;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all cubes;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all except 10, book;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all except bottle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all except bread;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop all except radio;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop amulet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
 drop anchor;drop.v.02;v01976841;put_direction-9.4;362;0
-drop antimacassar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop aqua vial;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop axe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bag;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop balsa wood beam;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop banana;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bandage;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bear;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop beer can;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bees;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bench;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bible;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bird;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop birdcage;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop biscuit, paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bladder;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop blanket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop blue paper and yellow paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop book;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop booklet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop boots;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bottle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bowl;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop box;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop branch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop brass key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bread;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop briefcase;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop broom;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop brown;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop bucket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop buoy;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cage;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop calendar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop camera;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop can;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop candle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop candles;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop canteen and shuttle card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cardboardbox;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop carpet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop carton;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop chain;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop chair;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop chest;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop clipper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop clock;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cloth;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop coconut;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop coin;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop coins;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop container and assignment;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cork;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cracked;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop crampons;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop crayon and pacquet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop crown;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop crown, stamp, zorkmid and ruby;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop crumpled;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cup;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop cutter, flask and axe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dagger;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop decaf;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop diamonds;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dino;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dodo;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop door;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dragon and paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop drill;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop drive;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dumbells;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dummy;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dusty book;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop dusty brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop egg;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop eggs;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop emerald;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop fifth brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop finch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop firestone;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop firework;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop first brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop fish;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop flashlight;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop flask;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop flat key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop flint;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop flippers;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop food;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop fork;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop fruit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop garlic;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop gigantic bowl;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop glasses;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop gloves;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop gores;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop grater;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop green;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop green rod;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop hair dryer;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop hammer;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop head;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop historical;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop hoard;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop honey;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop it;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop it and kit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop it and pliers;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop jacket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop jewelry;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop journal and key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop key and brush;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop keys;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop kit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop kitchen card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop knapsack;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop knife;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop knife and crowbar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop label;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop ladder;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop lamp;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop lantern;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop leaflet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop letter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop lockpick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop lump;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop magazine;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop magnet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop map;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop mask;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop match;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop matchbook;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop matchbox;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop matches;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop meter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop microphone;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop mine;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop mirror;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop mousetrap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop mud;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop multi;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop myrrh;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop nasty knife;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop necklace and dragon;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop net;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop newspaper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop notice;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop nugget;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop ox;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pack;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop package;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop padlock;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pager;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop painting;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pan;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop parchment;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop passbook;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pearl;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pencil;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop perfume;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop peridots;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop photo;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pickaxe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pigeon;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pile;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pillow;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pin;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pipe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop plans;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop plotter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop plug;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pole;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop popcorn;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop portrait and bills;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pot;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pouch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pump;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop pyramid;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop radio;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop radio and pole;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop red hat;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop remote control;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop ring;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop robe in shaft;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop room key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop rope;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop rubies;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop rug;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop rune;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop rusty knife;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop sack;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop scarf;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop scrawled;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop screw;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop screwdriver;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop scroll;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop secateurs;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop shawm;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop shield;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop shim;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop shiny key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop shovel;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop shroud;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop silver;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop skink;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop slip;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop small key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop soap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop spade;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop spectacles;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop spices;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop splinter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop spoon;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop stand;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop statuette;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop stethoscope;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop stick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop sticker;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop stone;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop stool and bucket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop suit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop sword;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop tea;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop teapot;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop teapot, rose, candy and gold key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop telescope;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop them;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop thing;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop third brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop ticket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop tin;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop torch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop toupee;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop toy;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop trap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop trident;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop umbrella;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop upper card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop vase;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop vial;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop volcano in water;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop walkie;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop water;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop wet suit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop whistle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop wig;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop wine;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop wire;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop wrench;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop yo-yo;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop zipper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
-drop zm$100000;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
+drop antimacassar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop aqua vial;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop axe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bag;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop balsa wood beam;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop banana;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bandage;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bear;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop beer can;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bees;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bench;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bible;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bird;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop birdcage;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop biscuit, paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bladder;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop blanket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop blue paper and yellow paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop book;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop booklet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop boots;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bottle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bowl;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop box;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop branch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop brass key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bread;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop briefcase;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop broom;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop brown;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop bucket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop buoy;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cage;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop calendar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop camera;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop can;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop candle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop candles;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop canteen and shuttle card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cardboardbox;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop carpet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop carton;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop chain;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop chair;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop chest;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop clipper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop clock;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cloth;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop coconut;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop coin;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop coins;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop container and assignment;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cork;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cracked;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop crampons;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop crayon and pacquet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop crown;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop crown, stamp, zorkmid and ruby;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop crumpled;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cup;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop cutter, flask and axe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dagger;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop decaf;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop diamonds;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dino;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dodo;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop door;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dragon and paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop drill;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop drive;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dumbells;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dummy;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dusty book;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop dusty brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop egg;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop eggs;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop emerald;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop fifth brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop finch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop firestone;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop firework;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop first brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop fish;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop flashlight;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop flask;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop flat key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop flint;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop flippers;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop food;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop fork;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop fruit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop garlic;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop gigantic bowl;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop glasses;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop gloves;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop gores;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop grater;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop green;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop green rod;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop hair dryer;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop hammer;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop head;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop historical;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop hoard;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop honey;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop it;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop it and kit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop it and pliers;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop jacket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop jewelry;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop journal and key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop key and brush;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop keys;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop kit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop kitchen card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop knapsack;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop knife;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop knife and crowbar;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop label;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop ladder;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop lamp;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop lantern;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop leaflet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop letter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop lockpick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop lump;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop magazine;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop magnet;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop map;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop mask;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop match;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop matchbook;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop matchbox;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop matches;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop meter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop microphone;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop mine;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop mirror;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop mousetrap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop mud;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop multi;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop myrrh;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop nasty knife;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop necklace and dragon;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop net;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop newspaper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop notice;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop nugget;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop ox;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pack;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop package;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop padlock;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pager;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop painting;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pan;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop paper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop parchment;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop passbook;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pearl;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pencil;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop perfume;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop peridots;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop photo;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pickaxe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pigeon;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pile;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pillow;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pin;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pipe;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop plans;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop plotter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop plug;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pole;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop popcorn;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop portrait and bills;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pot;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pouch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pump;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop pyramid;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop radio;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop radio and pole;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop red hat;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop remote control;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop ring;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop robe in shaft;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop room key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop rope;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop rubies;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop rug;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop rune;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop rusty knife;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop sack;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop scarf;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop scrawled;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop screw;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop screwdriver;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop scroll;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop secateurs;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop shawm;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop shield;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop shim;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop shiny key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop shovel;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop shroud;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop silver;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop skink;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop slip;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop small key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop soap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop spade;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop spectacles;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop spices;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop splinter;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop spoon;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop stand;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop statuette;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop stethoscope;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop stick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop sticker;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop stone;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop stool and bucket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop suit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop sword;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop tea;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop teapot;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop teapot, rose, candy and gold key;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop telescope;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop them;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop thing;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop third brick;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop ticket;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop tin;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop torch;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop toupee;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop toy;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop trap;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop trident;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop umbrella;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop upper card;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop vase;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop vial;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop volcano in water;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop walkie;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop water;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop wet suit;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop whistle;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop wig;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop wine;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop wire;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop wrench;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop yo-yo;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop zipper;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
+drop zm$100000;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
 dungeon master, turn dial to 8 and press button;sequence.n.02;n05044822;;2135;1
 dungeon master, wait;wait.v.01;v02637938;exist-47.1-1;;1
 e;travel.v.01;v01835496;run-51.3.2;7;0
@@ -692,190 +692,190 @@ erase line between b and r;erase.v.02;v01548718;wipe_manner-10.4.1-1;;0
 erase line between m and v;erase.v.02;v01548718;wipe_manner-10.4.1-1;;0
 espnis idol;;;;;0
 espnis thug;;;;;0
-examine air tank;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine arthur;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine ash;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine axe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine ball;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bandage;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine barrels;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine barrow;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bench;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bird;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine blossoms;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine blue carpet;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine blue statuette;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine boats;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine body;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bones;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine book;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bookcase;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine boots;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bottle;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine boulders;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine box;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine boy;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bridge;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine bubble;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine cage;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine card;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine carvings;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine cauldron;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine chair;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine charles;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine chasm;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine children;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine coconuts;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine coffin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine coin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine compressor;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine computer;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine corpse;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine cottage;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine crabs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine crypt;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine cups;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine cylinder;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dagger;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine diagram;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dial;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dining table;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dish;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dog;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine door;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dresser;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine drill;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dusty book;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine dynamite;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine electrodes;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine emerald;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine enclosure;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine fawkes;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine fence;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine film projector;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine fin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine fireplace;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine floor;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine flytrap;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine fusebox;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine garlic;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine glass case;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine gnomon;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine goblin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine grimoire;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine headphones;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine herbs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine hive;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine hole;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine hooks;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine huge bed;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine icicles;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine islet;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine it;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine items;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine keg;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine key;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine large chair;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine lemming;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine lever;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine light;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine lights;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine log;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine lump;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine machine;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine magpie;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine map;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine memorial;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine mesa;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine meteor;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine missile;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine model;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine moss;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine mousetrap;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine mouth;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine notice;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine output;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine packet;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine panel;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine parchment;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine pedestal;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine pedlar;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine pigeons;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine plans;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine plant;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine plant pots;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine plate;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine pockets;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine porridge oats;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine post;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine pram;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine radio;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine red statuette;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine reeds;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine refuse;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine remote control;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine ring;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine rolls;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine rope;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine rose;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine safe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine sapphire;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine satellite;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine screen;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine sculpture;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine searchlight;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine shadow;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine sheets;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine shiny scroll;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine ship;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine shroud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine silver coin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine skeleton;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine slip;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine slipper;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine slot;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine snooker table;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine spade;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine splinter;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine stamps;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine stars;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine statue;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine statues;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine stump;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine sundial;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine switch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine switch a;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine switch b;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine symbols;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine table;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine teachers;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine television;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine thin man;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine thumb;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine thyme;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine tide;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine tiny metal;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine toadstool;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine toadstools;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine toaster;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine tomb;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine tombs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine tracks;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine tree;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine urchin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine vegetable plot;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine volt meter;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine walkie;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine wand;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine wardrobe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine washing machine;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine watch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine waterfall;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine white  statuette;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine white door;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine wight;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine winch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-examine woman;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
+examine air tank;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine arthur;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine ash;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine axe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine ball;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bandage;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine barrels;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine barrow;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bench;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bird;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine blossoms;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine blue carpet;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine blue statuette;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine boats;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine body;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bones;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine book;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bookcase;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine boots;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bottle;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine boulders;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine box;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine boy;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bridge;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine bubble;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine cage;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine card;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine carvings;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine cauldron;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine chair;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine charles;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine chasm;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine children;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine coconuts;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine coffin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine coin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine compressor;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine computer;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine corpse;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine cottage;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine crabs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine crypt;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine cups;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine cylinder;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dagger;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine diagram;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dial;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dining table;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dish;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dog;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine door;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dresser;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine drill;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dusty book;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine dynamite;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine electrodes;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine emerald;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine enclosure;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine fawkes;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine fence;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine film projector;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine fin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine fireplace;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine floor;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine flytrap;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine fusebox;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine garlic;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine glass case;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine gnomon;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine goblin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine grimoire;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine headphones;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine herbs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine hive;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine hole;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine hooks;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine huge bed;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine icicles;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine islet;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine it;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine items;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine keg;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine key;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine large chair;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine lemming;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine lever;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine light;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine lights;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine log;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine lump;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine machine;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine magpie;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine map;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine memorial;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine mesa;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine meteor;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine missile;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine model;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine moss;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine mousetrap;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine mouth;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine notice;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine output;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine packet;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine panel;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine parchment;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine pedestal;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine pedlar;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine pigeons;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine plans;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine plant;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine plant pots;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine plate;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine pockets;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine porridge oats;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine post;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine pram;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine radio;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine red statuette;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine reeds;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine refuse;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine remote control;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine ring;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine rolls;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine rope;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine rose;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine safe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine sapphire;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine satellite;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine screen;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine sculpture;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine searchlight;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine shadow;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine sheets;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine shiny scroll;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine ship;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine shroud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine silver coin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine skeleton;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine slip;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine slipper;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine slot;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine snooker table;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine spade;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine splinter;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine stamps;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine stars;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine statue;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine statues;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine stump;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine sundial;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine switch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine switch a;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine switch b;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine symbols;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine table;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine teachers;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine television;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine thin man;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine thumb;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine thyme;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine tide;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine tiny metal;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine toadstool;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine toadstools;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine toaster;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine tomb;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine tombs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine tracks;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine tree;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine urchin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine vegetable plot;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine volt meter;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine walkie;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine wand;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine wardrobe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine washing machine;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine watch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine waterfall;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine white  statuette;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine white door;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine wight;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine winch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+examine woman;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
 exex turtle;;;;;0
 exit;exit.v.01;v02015598;escape-51.1-1;;0
 exit scimitar;exit.v.01;v02015598;escape-51.1-1;;0
@@ -1766,7 +1766,7 @@ learn zifmia;memorize.v.01;v00604576;learn-14-1,learn-14-2-1;1132;0
 leave bed;exit.v.01;v02015598;escape-51.1-1,leave-51.2-1;;0
 ledak painting;;;;;0
 left;travel.v.01;v01835496;run-51.3.2;7;0
-lick pet;lick.v.02;v001432176;chew-39.2-1,touch-20-1,wipe_manner-10.4.1-1;17;0
+lick pet;lick.v.02;v01432176;chew-39.2-1,touch-20-1,wipe_manner-10.4.1-1;17;0
 lie down;lie_down.v.01;v01985029;assuming_position-50;770;0
 lie down in front of bulldozer;lie_down.v.01;v01985029;assuming_position-50;770;0
 lie in bed;lie_down.v.01;v01985029;assuming_position-50;770;0
@@ -1926,10 +1926,10 @@ melbor myself;;;;;0
 melt head with torch;melt.v.01;v00444629;knead-26.5,other_cos-45.4;335;0
 mix cauldron with spoon;;;;13;0
 mix pan;;;;13;0
-mosaic, lagach;;;;;0
+mosaic, lagach;;;;;1
 mount horse;hop_on.v.01;v01923414;;197;0
-mouse, south;travel.v.01;v01835496;run-51.3.2;7;0
-mouse, west;travel.v.01;v01835496;run-51.3.2;7;0
+mouse, south;travel.v.01;v01835496;run-51.3.2;7;1
+mouse, west;travel.v.01;v01835496;run-51.3.2;7;1
 move barrel;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
 move bench;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
 move block;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
@@ -1947,7 +1947,7 @@ move rug;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
 move slab;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
 move stone;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
 move wardrobe;move.v.02;v01850315;roll-51.3.1,slide-11.2;55;0
-mural, lagach;;;;;0
+mural, lagach;;;;;1
 n;travel.v.01;v01835496;run-51.3.2;7;0
 ne;travel.v.01;v01835496;run-51.3.2;7;0
 nitfol frogs;;;;;0
@@ -1976,7 +1976,7 @@ oil secateurs;oil.v.01;v01268571;butter-9.9;;0
 oozelumny;;;;;0
 open access panel;open.v.01;v01346003;crane-40.3.2,other_cos-45.4,spatial_configuration-47.6;254;0
 open air supply system with tool;open.v.01;v01346003;crane-40.3.2,other_cos-45.4,spatial_configuration-47.6;254;0
-open app;open.v.11;v02140630;;;1
+open app;open.v.11;v02140630;;;0
 open aqua vial;open.v.01;v01346003;crane-40.3.2,other_cos-45.4,spatial_configuration-47.6;254;0
 open back door;open.v.01;v01346003;crane-40.3.2,other_cos-45.4,spatial_configuration-47.6;254;0
 open bag;open.v.01;v01346003;crane-40.3.2,other_cos-45.4,spatial_configuration-47.6;254;0
@@ -2374,7 +2374,7 @@ push yellow button;push.v.01;v01871979;carry-11.4-1-1,funnel-9.3-2-1,push-12-1-1
 put 10 in box;insert.v.02;v00187526;;62;0
 put ace in projector;insert.v.02;v00187526;;62;0
 put acorns in net;insert.v.02;v00187526;;62;0
-put all down;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
+put all down;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
 put all except book in zipper;insert.v.02;v00187526;;62;0
 put all in crate;insert.v.02;v00187526;;62;0
 put all in fireplace;insert.v.02;v00187526;;62;0
@@ -2683,7 +2683,7 @@ put strength in right socket;insert.v.02;v00187526;;62;0
 put string in brick;insert.v.02;v00187526;;62;0
 put sugar in pan;insert.v.02;v00187526;;62;0
 put sweater on table;put.v.01;v01494310;put-9.1-2;62;0
-put sword down;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;1
+put sword down;drop.v.01;v01977701;put_direction-9.4,roll-51.3.1;55;0
 put thumb in hole;insert.v.02;v00187526;;62;0
 put ticket in slot;insert.v.02;v00187526;;62;0
 put timber across chute;put.v.01;v01494310;put-9.1-2;62;0
@@ -2858,7 +2858,7 @@ remove junk with forklift;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
 remove mask;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
 remove new brick with crowbar;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
 remove old battery;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
-remove opener and drop it;sequence.n.02;n05044822;;2135;1
+remove opener and drop it;sequence.n.02;n05044822;;2135;0
 remove padlock;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
 remove plug;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
 remove ring;remove.v.01;v00173338;banish-10.2,remove-10.1;63;0
@@ -2995,7 +2995,7 @@ set thermostat to warm;set.v.05;v00298896;;;0
 set third wheel to 8;set.v.05;v00298896;;;0
 set throttle to fast;set.v.05;v00298896;;;0
 shake branch;shake.v.01;v01889610;body_internal_states-40.6,crane-40.3.2,knead-26.5,modes_of_being_with_motion-47.3,shake-22.3-2;276;0
-shake hands;shake.v.09;v0992518;;16;0
+shake hands;shake.v.09;v00992518;;16;0
 shake lamp;shake.v.01;v01889610;body_internal_states-40.6,crane-40.3.2,knead-26.5,modes_of_being_with_motion-47.3,shake-22.3-2;276;0
 shake pack;shake.v.01;v01889610;body_internal_states-40.6,crane-40.3.2,knead-26.5,modes_of_being_with_motion-47.3,shake-22.3-2;276;0
 shake pan;shake.v.01;v01889610;body_internal_states-40.6,crane-40.3.2,knead-26.5,modes_of_being_with_motion-47.3,shake-22.3-2;276;0
@@ -3480,7 +3480,7 @@ talk to sleaze;talk.v.02;v00941990;talk-37.5;43;0
 talk to stephanie;talk.v.02;v00941990;talk-37.5;43;0
 talk to woman;talk.v.02;v00941990;talk-37.5;43;0
 tase sleaze;;;;;0
-taste it;taste.v.02;v2191546;see-30.1;66;0
+taste it;taste.v.02;v02191546;see-30.1;66;0
 tear cloth;tear.v.01;v01573515;break-45.1;414;0
 tear it;tear.v.01;v01573515;break-45.1;414;0
 tell bum about skull;tell.v.03,say.v.08;v00953216,v00979870;say-37.7-1;6;0
@@ -3756,7 +3756,7 @@ walk 4 paces west;walk.v.01;v01904930;run-51.3.2;64;0
 walk around bulldozer;walk.v.01;v01904930;run-51.3.2;64;0
 watch television;watch.v.03;v02150948;sight-30.2;66;0
 watch video;watch.v.03;v02150948;sight-30.2;66;0
-water bean;water.v.01;v0228236;;;0
+water bean;water.v.01;v00228236;;;0
 wave at crowd;beckon.v.01;v01041415;wink-40.3.1-1;36;0
 wave beads;brandish.v.01;v01446901;modes_of_being_with_motion-47.3;276;0
 wave bean pole;brandish.v.01;v01446901;modes_of_being_with_motion-47.3;276;0
@@ -3854,296 +3854,296 @@ write chasm on featureless cube;write.v.07;v01691057;scribble-25.2;;0
 write mace on featureless;write.v.07;v01691057;scribble-25.2;;0
 write on whiteboard with marker;write.v.07;v01691057;scribble-25.2;;0
 write prize on featureless;write.v.07;v01691057;scribble-25.2;;0
-x apparatus;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x arcade;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x ariana;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x arrangement;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x attendant;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bag;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x ball;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bar;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x barkeep;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x barman;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x barrels;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bats;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bay;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bed;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bladder;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x blade;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x blank card;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x block;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x blocks;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x boat;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x body;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bones;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x book;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x books;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x boot;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x boots;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bowl;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x box;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x boxes;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x brick;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bubble;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x building;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bulbs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x bushes;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x button;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cage;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x camera;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x car;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x card;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x carpark;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x carvings;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cat;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x chair;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x chairs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x chandelier;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x chest;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x chopper;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x city;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x clingfilm;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x clock;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x clover;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x coach;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x coat;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x coffee;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x coin;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x column;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x comb;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x compass;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x computers;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x console;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x contact points;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x contraption;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x control;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cooler;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x copier;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x copy;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x couch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x counter;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x crack;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x crane;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x creature;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x crossbow;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x crowbar;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cubicles;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cup;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cupboard;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x curtain;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x cutout;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dent;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x desk;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x desks;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x device;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dials;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dispenser;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x district attorney;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x door;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dragon;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x drain;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dresser;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x duct;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dust;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x dusty brick;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x east mural;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x electric panel;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x electronics;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x fan;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x farm;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x feather;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x female;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x figure;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x floorboards;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x flower;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x flowers;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x flue;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x footprints;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x forcefield stud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x forest;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x form;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x fountain;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x frank;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x fungus;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x fuse;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x gaping;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x gate;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x gauge;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x generator;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x generator access;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x globe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x gnome;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x grass;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x grenade;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x grill;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x grille;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x guard;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x gun;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x hand;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x handle;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x hat;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x hawk;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x hawks;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x hermit;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x hole;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x homing;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x horriblis;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x horse;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x huge statue;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x implementor;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x indicator;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x information stud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x insect;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x invite;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x it;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x jail;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x juke;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x k9;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x kettle;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x key;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x keypad;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x keys;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x kite;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x knife;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x knob;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x label;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x ladder;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x leaf;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x left screen;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x lever;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x librarian;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x light;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x lye;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x machine;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x magazines;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x magnetite;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x male;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x man;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x marker;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x mask;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x me;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x metal thing;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x mine;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x minerals;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x mirror;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x moss;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x mukhtar;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x mural;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x murals;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x mushroom;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x natives;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x nest;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x note;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x officer;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x old man;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x opener;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x outcrop;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pack;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x paint splotches;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x painting;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pair;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pan;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x panel;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x panels;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x paper;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x papers;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pass;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x patch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pedestal;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pen;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x photograph;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pig;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pile;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pipe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x plants;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x plaque;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x plate;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pool;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x porous wall;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x posse;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x pots;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x powerup stud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x prep table;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x printer;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x printouts;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x probe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x project status stud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x rack;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x rags;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x respirator;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x right screen;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x river;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x robot;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x rock;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x rods;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x safe;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x salt;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sandstone;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x scanner;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x screen;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x security gates;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x self;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sequence stud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x servers;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x shadow;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x shaman;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x shape;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sheet;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x shelf;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x shelves;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sign;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x skeleton;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sketch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x slabs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x slot;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x soft things;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sonar;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x stairs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x stalk;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x statue;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x status display;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x storm;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x stove;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x stranger;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x studs;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x swallow;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x switch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x sydney;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x table;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x tables;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x technician;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x temple;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x terrock;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x thad;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x thing;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x thug;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x toner;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x top shelf;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x torn clothes;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x tower;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x transmit stud;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x trapdoor;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x tray;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x treant;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x tree;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x trees;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x vent;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x vial;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x viewscreen;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x wall;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x wallet;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x watch;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x water;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x well;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x west mural;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x wheel;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x wheels;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x white pillar;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x whiteboard;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x window;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x windy tunnel;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x wire;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
-x writing;examine.v.02;v002131279;investigate-35.4,sight-30.2;1262;0
+x apparatus;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x arcade;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x ariana;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x arrangement;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x attendant;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bag;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x ball;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bar;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x barkeep;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x barman;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x barrels;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bats;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bay;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bed;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bladder;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x blade;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x blank card;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x block;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x blocks;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x boat;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x body;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bones;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x book;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x books;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x boot;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x boots;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bowl;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x box;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x boxes;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x brick;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bubble;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x building;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bulbs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x bushes;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x button;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cage;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x camera;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x car;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x card;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x carpark;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x carvings;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cat;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x chair;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x chairs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x chandelier;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x chest;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x chopper;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x city;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x clingfilm;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x clock;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x clover;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x coach;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x coat;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x coffee;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x coin;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x column;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x comb;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x compass;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x computers;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x console;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x contact points;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x contraption;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x control;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cooler;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x copier;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x copy;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x couch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x counter;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x crack;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x crane;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x creature;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x crossbow;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x crowbar;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cubicles;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cup;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cupboard;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x curtain;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x cutout;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dent;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x desk;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x desks;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x device;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dials;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dispenser;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x district attorney;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x door;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dragon;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x drain;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dresser;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x duct;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dust;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x dusty brick;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x east mural;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x electric panel;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x electronics;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x fan;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x farm;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x feather;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x female;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x figure;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x floorboards;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x flower;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x flowers;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x flue;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x footprints;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x forcefield stud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x forest;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x form;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x fountain;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x frank;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x fungus;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x fuse;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x gaping;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x gate;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x gauge;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x generator;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x generator access;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x globe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x gnome;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x grass;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x grenade;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x grill;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x grille;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x guard;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x gun;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x hand;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x handle;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x hat;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x hawk;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x hawks;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x hermit;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x hole;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x homing;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x horriblis;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x horse;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x huge statue;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x implementor;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x indicator;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x information stud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x insect;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x invite;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x it;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x jail;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x juke;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x k9;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x kettle;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x key;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x keypad;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x keys;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x kite;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x knife;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x knob;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x label;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x ladder;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x leaf;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x left screen;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x lever;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x librarian;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x light;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x lye;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x machine;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x magazines;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x magnetite;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x male;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x man;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x marker;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x mask;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x me;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x metal thing;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x mine;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x minerals;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x mirror;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x moss;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x mukhtar;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x mural;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x murals;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x mushroom;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x natives;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x nest;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x note;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x officer;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x old man;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x opener;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x outcrop;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pack;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x paint splotches;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x painting;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pair;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pan;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x panel;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x panels;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x paper;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x papers;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pass;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x patch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pedestal;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pen;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x photograph;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pig;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pile;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pipe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x plants;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x plaque;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x plate;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pool;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x porous wall;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x posse;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x pots;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x powerup stud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x prep table;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x printer;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x printouts;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x probe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x project status stud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x rack;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x rags;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x respirator;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x right screen;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x river;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x robot;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x rock;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x rods;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x safe;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x salt;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sandstone;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x scanner;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x screen;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x security gates;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x self;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sequence stud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x servers;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x shadow;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x shaman;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x shape;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sheet;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x shelf;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x shelves;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sign;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x skeleton;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sketch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x slabs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x slot;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x soft things;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sonar;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x stairs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x stalk;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x statue;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x status display;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x storm;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x stove;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x stranger;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x studs;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x swallow;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x switch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x sydney;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x table;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x tables;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x technician;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x temple;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x terrock;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x thad;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x thing;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x thug;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x toner;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x top shelf;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x torn clothes;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x tower;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x transmit stud;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x trapdoor;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x tray;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x treant;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x tree;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x trees;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x vent;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x vial;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x viewscreen;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x wall;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x wallet;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x watch;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x water;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x well;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x west mural;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x wheel;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x wheels;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x white pillar;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x whiteboard;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x window;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x windy tunnel;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x wire;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
+x writing;examine.v.02;v02131279;investigate-35.4,sight-30.2;1262;0
 xyzzy;;;;;0
 y;answer.v.01;v00815686;;42;0
 yell;shout.v.02;v00913065;;;0

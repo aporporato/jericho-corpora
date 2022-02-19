@@ -11,7 +11,7 @@ DRINK;drink.v.01;v01170052;eat-39.1-2,devour-39.4-2;263;
 DROP;shed.v.01;v01513430;;55;
 EAT;eat.v.01;v01168468;eat-39.1-1;263;
 ENTER;enter.v.01;v02016523;escape-51.1-1;54;
-EXAMINE;examine.v.02;v002131279;investigate-35.4,sight-30.2,see-30.1-1;1262;X
+EXAMINE;examine.v.02;v02131279;investigate-35.4,sight-30.2,see-30.1-1;1262;X
 FEEL;feel.v.03;v02106006;see-30.1-1;66;
 FILL;fill.v.01;v00452512;fill-9.8,other_cos-45.4;59;
 GIVE;give.v.03;v02199590;give-13.1-1;139;
