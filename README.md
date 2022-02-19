@@ -22,6 +22,17 @@ The same annotation has been repeated for common Interactive Fiction commands, a
 described [here](http://pr-if.org/doc/play-if-card/) (the image is available for reference as a PDF file). The result is
 available in `common_commands.csv`.
 
+### ELECTRA for IF
+
+The dataset has been used to finetune the [ELECTRA](https://github.com/google-research/electra) language model for
+action classification.
+
+Each dataset has been constructed from the four different annotation described above; then every label that do not have
+a correspondence in the common commands dataset and has less than 5 example has been filtered out. The code is available in
+the `electra_if` diretory.
+
+For the results, see https://github.com/aporporato/electra.
+
 ### Jericho Transcript
 
 The file `jericho_transcript.ipynb` can be used to generate the transcript of all the supported games while following
