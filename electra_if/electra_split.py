@@ -93,7 +93,3 @@ with open("npc\\npc_full.json", "w") as file:
 with open("npc\\npc.json", "w") as file:
     file.write(json.dumps({k: v for (k, v) in npc_dict.items() if len(v) >= 5 or \
                            len(set(v).intersection(base_action)) > 0}, indent=2))
-
-with open("npc\\npc_base.json", "w") as file:
-    file.write(json.dumps({k: v for (k, v) in npc_dict.items() if len(v) >= 5 or \
-                           len(set(v).intersection(base_action)) > 0}, indent=2))
