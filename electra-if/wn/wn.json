@@ -1,5 +1,5 @@
 {
-  "v00674607": [
+  "choose.v.01": [
     "1",
     "2",
     "3",
@@ -10,7 +10,7 @@
     "satchel",
     "seat"
   ],
-  "v01346003": [
+  "open.v.01": [
     "adventurer, open door",
     "dragon, open door",
     "knight, open flagstone",
@@ -174,7 +174,7 @@
     "open wrapper",
     "open zipper"
   ],
-  "v01835496": [
+  "travel.v.01": [
     "aft",
     "ahead",
     "d",
@@ -221,11 +221,11 @@
     "w",
     "west"
   ],
-  "v00958334": [
+  "repeat.v.01": [
     "again",
     "g"
   ],
-  "null": [
+  "unknown": [
     "agganrw",
     "aimfiz belboz",
     "anoppe",
@@ -393,7 +393,7 @@
     "zemdor blue box",
     "zifmia adventurer"
   ],
-  "v00815686": [
+  "answer.v.01": [
     "answer \"a well\"",
     "berknip",
     "no",
@@ -404,7 +404,7 @@
     "y",
     "yes"
   ],
-  "v00979870": [
+  "say.v.08": [
     "aragon",
     "away",
     "blizzard",
@@ -446,7 +446,7 @@
     "tell gnome about grunk",
     "tina, hello"
   ],
-  "v00784342": [
+  "ask.v.01": [
     "ask about evidence",
     "ask alan about key",
     "ask alan about novel",
@@ -538,7 +538,7 @@
     "ask woman about roadrunner",
     "ask woman about ruby"
   ],
-  "v00752493": [
+  "ask.v.02": [
     "ask cheryl for hologram",
     "ask coach for trophy",
     "ask for akbar",
@@ -552,7 +552,7 @@
     "ask sydney for hat",
     "ask tip for tool"
   ],
-  "v01214265": [
+  "take.v.04": [
     "ask wiggins to get garnet",
     "get",
     "get 3",
@@ -1355,14 +1355,14 @@
     "tell floyd to get shiny board",
     "tell pigeon to get ruby"
   ],
-  "v00007012": [
+  "blow.v.01": [
     "blow dust",
     "blow in tube",
     "blow it",
     "blow shawm",
     "blow spices at lafond"
   ],
-  "v00334996": [
+  "break.v.05": [
     "break ampoule",
     "break bottle",
     "break branch",
@@ -1377,14 +1377,14 @@
     "break window",
     "break windows"
   ],
-  "v00378664": [
+  "burn.v.01": [
     "burn paper",
     "burn pole with torch",
     "burn rope with candle",
     "burn speck",
     "burn string"
   ],
-  "v02207206": [
+  "buy.v.01": [
     "buy bag",
     "buy beer",
     "buy blue carpet",
@@ -1399,7 +1399,7 @@
     "buy telescope",
     "buy ticket"
   ],
-  "v01609287": [
+  "pull.v.04": [
     "cheryl, pull rods",
     "pull anchor",
     "pull antenna",
@@ -1432,14 +1432,14 @@
     "pull torch",
     "pull weed"
   ],
-  "v01532589": [
+  "clean.v.01": [
     "clean dirty floor with moss",
     "clean lump",
     "clean podium",
     "clean skeleton with moss",
     "clean table with cloth"
   ],
-  "v01921964": [
+  "climb.v.01": [
     "climb beanstalk",
     "climb can",
     "climb down",
@@ -1459,7 +1459,7 @@
     "climb tree",
     "climb up piano"
   ],
-  "v01345109": [
+  "close.v.01": [
     "close access panel",
     "close breaker",
     "close cabinet",
@@ -1497,7 +1497,7 @@
     "close zipper",
     "shut panel"
   ],
-  "v00877083": [
+  "consult.v.02": [
     "consult scriptures about planes",
     "look up 1420 in map",
     "look up cholok in leshosh",
@@ -1520,7 +1520,7 @@
     "look up william on nameplate",
     "look up yetzuiz in fresto"
   ],
-  "v01552519": [
+  "cut.v.01": [
     "cut blue tassel",
     "cut blue wire",
     "cut branch with knife",
@@ -1537,7 +1537,7 @@
     "cut rope with dagger",
     "cut rope with knife"
   ],
-  "v02199590": [
+  "give.v.03": [
     "demon, give me wand",
     "dragon, give ring to me",
     "give $56",
@@ -1643,7 +1643,7 @@
     "give umbrella to girl",
     "give violin, necklace, ruby, stamp, zorkmid, crown and dragon to demon"
   ],
-  "v01309701": [
+  "dig.v.01": [
     "dig",
     "dig earth",
     "dig ground",
@@ -1655,7 +1655,7 @@
     "dig rock with axe",
     "dig sand"
   ],
-  "v02016523": [
+  "enter.v.01": [
     "dock",
     "enter",
     "enter access panel",
@@ -1694,7 +1694,7 @@
     "get in machine",
     "get in web"
   ],
-  "v01170052": [
+  "drink.v.01": [
     "drink beer",
     "drink coke",
     "drink drink",
@@ -1707,7 +1707,7 @@
     "drink whiskey",
     "drink wine"
   ],
-  "v01930874": [
+  "drive.v.01": [
     "drive to buckingham palace",
     "drive to covent garden",
     "drive to pinchin lane",
@@ -1717,7 +1717,7 @@
     "drive to trafalgar square",
     "drive to whitehall"
   ],
-  "v01977701": [
+  "drop.v.01": [
     "drop all",
     "drop all bricks",
     "drop all but brain",
@@ -1993,7 +1993,7 @@
     "put all down",
     "put sword down"
   ],
-  "n05044822": [
+  "sequence.n.02": [
     "dungeon master, turn dial to 8 and press button",
     "hole, e",
     "hole, n",
@@ -2010,7 +2010,7 @@
     "rock, sw",
     "turtle, se and get scroll then nw"
   ],
-  "v02637938": [
+  "wait.v.01": [
     "dungeon master, wait",
     "wait",
     "wait for 35 minutes",
@@ -2018,7 +2018,7 @@
     "wait for johnny",
     "z"
   ],
-  "v01168468": [
+  "eat.v.01": [
     "eat bar",
     "eat beef",
     "eat berries",
@@ -2038,7 +2038,7 @@
     "eat tiny bowl of porridge",
     "eat toadstone"
   ],
-  "v02131279": [
+  "examine.v.02": [
     "examine air tank",
     "examine arthur",
     "examine ash",
@@ -2514,7 +2514,7 @@
     "x wire",
     "x writing"
   ],
-  "v02015598": [
+  "exit.v.01": [
     "exit",
     "exit scimitar",
     "exit shack",
@@ -2533,7 +2533,7 @@
     "get out of web",
     "leave bed"
   ],
-  "v00452512": [
+  "fill.v.01": [
     "fill bath",
     "fill battery",
     "fill bottle",
@@ -2549,7 +2549,7 @@
     "fill tank with air",
     "fill teapot"
   ],
-  "v01998432": [
+  "follow.v.01": [
     "follow ford",
     "follow gnome",
     "follow mouse",
@@ -2557,7 +2557,7 @@
     "k9, follow me",
     "turtle, follow me"
   ],
-  "v01400044": [
+  "hit.v.03": [
     "hit board",
     "hit box",
     "hit bung with mace",
@@ -2572,11 +2572,11 @@
     "hit lamp",
     "hit plaster with pickaxe"
   ],
-  "v02472495": [
+  "inventory.v.01": [
     "i",
     "inventory"
   ],
-  "v01421622": [
+  "insert.v.01": [
     "insert beam in niches",
     "insert blue card in slot",
     "insert capsule into reactor",
@@ -2601,7 +2601,7 @@
     "insult joe",
     "insult vincent"
   ],
-  "v01963942": [
+  "jump.v.01": [
     "jump",
     "jump lake",
     "jump off equipment",
@@ -2611,7 +2611,7 @@
     "jump to brown rock",
     "jump to roof"
   ],
-  "v01323958": [
+  "kill.v.01": [
     "kill dragon",
     "kill eranti",
     "kill figure with sword",
@@ -2620,7 +2620,7 @@
     "kill thief with nasty knife",
     "kill troll with sword"
   ],
-  "v02130524": [
+  "look.v.01": [
     "l",
     "l in box",
     "l in cabinet",
@@ -2705,7 +2705,7 @@
     "look under table",
     "look up"
   ],
-  "v00604576": [
+  "memorize.v.01": [
     "learn bekdab",
     "learn blorb",
     "learn blorple",
@@ -2752,7 +2752,7 @@
     "learn zemdor",
     "learn zifmia"
   ],
-  "v01985029": [
+  "lie_down.v.01": [
     "lie down",
     "lie down in front of bulldozer",
     "lie in bed",
@@ -2761,7 +2761,7 @@
     "lie on couch",
     "prosser, lie in the mud"
   ],
-  "v01974062": [
+  "raise.v.02": [
     "lift grate",
     "lift plywood cover",
     "lift seat",
@@ -2771,7 +2771,7 @@
     "raise short pole",
     "robot, lift cage"
   ],
-  "v01199881": [
+  "light_up.v.05": [
     "light candle",
     "light candle with fire",
     "light candle with match",
@@ -2793,21 +2793,21 @@
     "light torch with fire",
     "light torch with newspaper"
   ],
-  "v02169891": [
+  "listen.v.01": [
     "listen",
     "listen to conversation",
     "listen to dial",
     "listen to girl",
     "listen to wall"
   ],
-  "v01973125": [
+  "lower.v.01": [
     "lower basket",
     "lower flag",
     "lower grate",
     "lower ladder",
     "lower short pole"
   ],
-  "v01850315": [
+  "move.v.02": [
     "move barrel",
     "move bench",
     "move block",
@@ -2826,7 +2826,7 @@
     "move stone",
     "move wardrobe"
   ],
-  "v01020934": [
+  "note.v.04": [
     "note counter",
     "note dryer",
     "note it",
@@ -2835,14 +2835,14 @@
     "note tables",
     "note vomit"
   ],
-  "v01725051": [
+  "play.v.03": [
     "play accordion",
     "play flute",
     "play organ",
     "play syrinx",
     "play whistle"
   ],
-  "v01152214": [
+  "charge.v.17": [
     "point at blue carpet",
     "point at coconut",
     "point at cola",
@@ -2864,7 +2864,7 @@
     "point to key",
     "point wand at menhir"
   ],
-  "v02069551": [
+  "pour.v.01": [
     "pour coffee in drain",
     "pour cold porridge in gigantic bowl",
     "pour fluid in hole",
@@ -2885,11 +2885,11 @@
     "pour wine in blue goblet",
     "pour wine in green goblet"
   ],
-  "v00759944": [
+  "pray.v.01": [
     "pray",
     "pray to kraxis"
   ],
-  "v01447257": [
+  "press.v.01": [
     "press 0",
     "press 2",
     "press 3",
@@ -2936,7 +2936,7 @@
     "press white, gray, black, red, black",
     "press yellow button"
   ],
-  "v01871979": [
+  "push.v.01": [
     "push ass",
     "push autopilot button",
     "push ball south",
@@ -3019,7 +3019,7 @@
     "push yellow",
     "push yellow button"
   ],
-  "v00187526": [
+  "insert.v.02": [
     "put 10 in box",
     "put ace in projector",
     "put acorns in net",
@@ -3285,7 +3285,7 @@
     "put x10 in second",
     "put yellow powder in kettle"
   ],
-  "v01494310": [
+  "put.v.01": [
     "put all on box",
     "put ash on journal",
     "put ashes on coin",
@@ -3371,7 +3371,7 @@
     "put x12 on first pile",
     "put x8 on second pile"
   ],
-  "v00625119": [
+  "read.v.01": [
     "read back of blue paper",
     "read back of brown paper",
     "read back of yellow paper",
@@ -3473,7 +3473,7 @@
     "read writing",
     "read writings"
   ],
-  "v00173338": [
+  "remove.v.01": [
     "remove armour",
     "remove balls",
     "remove bandage",
@@ -3513,7 +3513,7 @@
     "remove towel",
     "remove watch"
   ],
-  "v01249724": [
+  "rub.v.01": [
     "rub bug",
     "rub flower",
     "rub it with crayon",
@@ -3521,7 +3521,7 @@
     "rub locket",
     "rub oil on mirror 1"
   ],
-  "v01317723": [
+  "search.v.04": [
     "search ash",
     "search bones",
     "search boots",
@@ -3566,7 +3566,7 @@
     "search workbench",
     "search wreck"
   ],
-  "v00298896": [
+  "set.v.05": [
     "set center dial to 3",
     "set compass to crane",
     "set compass to hawk",
@@ -3586,7 +3586,7 @@
     "set third wheel to 8",
     "set throttle to fast"
   ],
-  "v01889610": [
+  "shake.v.01": [
     "shake branch",
     "shake lamp",
     "shake pack",
@@ -3595,7 +3595,7 @@
     "sharpen knife on rock",
     "shazok storm"
   ],
-  "v01137138": [
+  "shoot.v.01": [
     "shoot mushroom with crossbow",
     "shoot pod with bazooka",
     "shoot prey",
@@ -3603,7 +3603,7 @@
     "shoot thad",
     "shoot window"
   ],
-  "v02148788": [
+  "show.v.01": [
     "show $500",
     "show amulet to michael",
     "show bar to tina",
@@ -3647,7 +3647,7 @@
     "show violet to trent",
     "show warranty"
   ],
-  "v01984902": [
+  "sit_down.v.01": [
     "sit",
     "sit down",
     "sit in cask",
@@ -3660,10 +3660,10 @@
     "sit on green rock",
     "sit on large chair"
   ],
-  "v00014742": [
+  "sleep.v.01": [
     "sleep"
   ],
-  "v01870275": [
+  "skid.v.04": [
     "slide a",
     "slide c",
     "slide e",
@@ -3682,28 +3682,28 @@
     "slide ticket under front",
     "slide upper card through slot"
   ],
-  "v00335923": [
+  "smash.v.02": [
     "smash cabinet",
     "smash case with broom",
     "smash padlock with pickaxe",
     "smash seal",
     "smash window with coffer"
   ],
-  "v02124748": [
+  "smell.v.01": [
     "smell",
     "smell car",
     "smell dirty floor",
     "smell it",
     "smell smoke"
   ],
-  "v02734488": [
+  "stand.v.03": [
     "stand on beam",
     "stand on bench",
     "stand on chair",
     "stand on charles",
     "stand on disc"
   ],
-  "v01236164": [
+  "hit.v.02": [
     "strike returning",
     "strike rod of bronze",
     "strike rod of fire",
@@ -3712,14 +3712,14 @@
     "strike rod of infinity",
     "strike rod of luck"
   ],
-  "v00050454": [
+  "take_off.v.06": [
     "take off dress",
     "take off gown",
     "take off jacket",
     "take off scarf",
     "take off veil"
   ],
-  "v00941990": [
+  "talk.v.02": [
     "talk to alltext",
     "talk to boy",
     "talk to britney",
@@ -3732,11 +3732,11 @@
     "talk to stephanie",
     "talk to woman"
   ],
-  "v00953216": [
+  "tell.v.03": [
     "tell bum about skull",
     "tell gnome about grunk"
   ],
-  "v01508368": [
+  "throw.v.01": [
     "throw all but book into lower chute",
     "throw axe at cord",
     "throw axe at dwarf",
@@ -3775,7 +3775,7 @@
     "throw sword into lake",
     "throw wishbone at ghost"
   ],
-  "v01354673": [
+  "connect.v.01": [
     "tie bucket to rope",
     "tie chain to me",
     "tie chain to rod",
@@ -3791,7 +3791,7 @@
     "tie tinsel to coin",
     "tie wire to hook"
   ],
-  "v01206218": [
+  "touch.v.01": [
     "touch",
     "touch blue",
     "touch bottom",
@@ -3821,7 +3821,7 @@
     "touch wood with pole",
     "touch yellow"
   ],
-  "v02096167": [
+  "turn.v.09": [
     "turn bolt with wrench",
     "turn c",
     "turn crank",
@@ -3872,7 +3872,7 @@
     "turn wheel right",
     "turn wireless on"
   ],
-  "v01510576": [
+  "switch_off.v.01": [
     "turn drill off",
     "turn off electricity",
     "turn off flashlight",
@@ -3882,7 +3882,7 @@
     "turn off saw",
     "turn off torch"
   ],
-  "v01510399": [
+  "switch_on.v.01": [
     "turn drill on",
     "turn on autopilot",
     "turn on bulb",
@@ -3914,7 +3914,7 @@
     "turn radio on",
     "turn reactor on"
   ],
-  "v01348705": [
+  "unlock.v.01": [
     "unlock box 600 with key",
     "unlock box with key",
     "unlock box with screwdriver",
@@ -3956,14 +3956,14 @@
     "unlock wardrobe with key",
     "unlock west door"
   ],
-  "v00018526": [
+  "wake_up.v.02": [
     "wake falcon with salts",
     "wake gnome",
     "wake homer",
     "wake implementor",
     "wake up old man"
   ],
-  "v01446901": [
+  "brandish.v.01": [
     "wave beads",
     "wave bean pole",
     "wave clover",
@@ -3983,7 +3983,7 @@
     "wave wand at magic porridge pot",
     "wave wand at underwear"
   ],
-  "v00047745": [
+  "wear.v.02": [
     "wear air tank",
     "wear amulet",
     "wear armour",
@@ -4035,7 +4035,7 @@
     "wear wet suit",
     "wear wings"
   ],
-  "v01691057": [
+  "write.v.07": [
     "write 1 on cube",
     "write 10 on cube",
     "write 11 on cube",
